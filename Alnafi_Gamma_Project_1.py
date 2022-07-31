@@ -37,3 +37,8 @@ if num % check == 0:
 else:
     print(f"The number {num} is not evenly divide by the {check} number")
 
+
+
+
+
+
